@@ -1,0 +1,47 @@
+body{
+background: #F6F6F6;
+color: #000;
+}
+form[id='info']{
+	display: none;
+}
+div[id='topbar']{
+background: #000;
+position: fixed;
+top: 0;left:0;
+width: 100%;
+height: 40px;
+}
+a{
+color: #000;
+}
+p{
+color: #000;
+}
+form[id='topform']{
+	height: 30px;
+	
+}
+a[id='o1']{
+color: #002A7F;
+text-decoration: none;
+}
+a[id='o2']{
+text-decoration: none;
+}
+p[class='title']{
+	color: #002A7F;
+	width: 100%;
+	position: absolute;
+	top: 0px;
+}
+img[id='logo']{
+width: 40px;
+}
+
+hr[class='2']{
+width: 90%;
+}
+img{
+border-radius: 5px;
+}
