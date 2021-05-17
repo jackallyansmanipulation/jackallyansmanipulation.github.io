@@ -1,6 +1,7 @@
 body{
 background: #F6F6F6;
 color: #000;
+font-family: sans-serif;
 }
 form[id='info']{
 	display: none;
